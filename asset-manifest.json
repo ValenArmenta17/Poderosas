@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Poderosas/static/css/main.7f9b6b0c.css",
+    "main.js": "/Poderosas/static/js/main.280f8724.js",
+    "static/js/787.1477c1f2.chunk.js": "/Poderosas/static/js/787.1477c1f2.chunk.js",
+    "index.html": "/Poderosas/index.html",
+    "main.7f9b6b0c.css.map": "/Poderosas/static/css/main.7f9b6b0c.css.map",
+    "main.280f8724.js.map": "/Poderosas/static/js/main.280f8724.js.map",
+    "787.1477c1f2.chunk.js.map": "/Poderosas/static/js/787.1477c1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9b6b0c.css",
+    "static/js/main.280f8724.js"
+  ]
+}
